@@ -1,18 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 86407629,
+    "name": "Tidal Wave",
+    "author": "OniLink",
+    "creators": ["OniLink"]
+    "verifier": "SerVax",
+    "verification": "https://www.youtube.com/watch?v=alp09R3eG_4&t=4s&pp=0gcJCccJAYcqIYzv",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "A6",
+            "link": "https://youtu.be/gmWPsZ_g_O4?si=lKG4YPfW_hWcvJA5",
             "percent": 100,
-            "hz": 360
         }
     ]
 }
