@@ -1,1 +1,42 @@
-
+{
+    "id": 27690100,
+    "name": "Firework",
+    "author": "cherryteam",
+    "creators": ["Lekvid", "Vernam", "Orte", "Konsi", "Realvet", "Desumari", "Hantein", "Crouley", "Ililium", "00Zero", "Buragoz", "Itami"],
+    "verifier": "Dovi",
+    "verification": "https://www.youtube.com/watch?v=eh-cVjmWTIg",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=1XNGTZ0SPc0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=ld1cbVEEDOg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://www.youtube.com/watch?v=8y629Gy41KI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bracus",
+            "link": "https://www.youtube.com/watch?v=arVmCJVapFo",
+            "percent": 100,
+             "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://www.youtube.com/watch?v=aMWp2eVJpd8",
+            "percent": 100,
+             "hz": 360
+        }
+    ]
+}
