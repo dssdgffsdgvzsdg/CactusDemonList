@@ -8,9 +8,21 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-            {
+        {
             "user": "SerVax",
             "link": "https://www.youtube.com/watch?v=s4LJd1WsPos",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=FifpSVGGq1U",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://www.youtube.com/watch?v=KqJW42qq-7c&t=2s",
             "percent": 100,
             "hz": 120
         }
