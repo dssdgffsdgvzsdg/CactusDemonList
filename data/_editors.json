@@ -5,6 +5,11 @@
         "link": "https://www.youtube.com/channel/UCqihiS2TwtNY0JTQaEw-Yng"
     },
     {
+        "role": "owner",
+        "name": "Kookeyeyes",
+        "link": "https://www.youtube.com/channel/UC1Zb9DrcemeXF9KukMWVAgQ"
+    },
+    {
         "role": "admin",
         "name": "Dartino",
         "link": "https://www.youtube.com/@dartlolz528"
@@ -18,20 +23,5 @@
         "role": "admin",
         "name": "IBeatRetray",
         "link": "https://youtube.com/@ibeatretray2?si=rjWzogxlQanZ3u-6"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
