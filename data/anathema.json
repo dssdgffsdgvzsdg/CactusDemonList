@@ -8,9 +8,15 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-            {
+        {
             "user": "PoCle",
             "link": "https://www.youtube.com/watch?v=h01WnSNfky0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=gxp3BclgjBc",
             "percent": 100,
             "hz": 360
         }
