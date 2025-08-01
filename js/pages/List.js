@@ -95,8 +95,6 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    
-                    </p>
                 </div>
             </div>
         </main>
