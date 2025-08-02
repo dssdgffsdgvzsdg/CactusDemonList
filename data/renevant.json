@@ -33,6 +33,12 @@
             "hz": 360
         },
         {
+            "user": "Dogboi",
+            "link": "https://www.youtube.com/watch?v=oKp6Is3itbg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "A6",
             "link": "https://youtu.be/EYdzHeqdmHI?si=rzHuCGFMwOtRofkD",
             "percent": 100,
@@ -112,3 +118,4 @@
         }
     ]
 }
+
