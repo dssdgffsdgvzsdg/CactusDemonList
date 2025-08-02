@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=Ulz-vrwuTn8",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
