@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=0xY_KFvJmkU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/NavVHU6a0ds",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
