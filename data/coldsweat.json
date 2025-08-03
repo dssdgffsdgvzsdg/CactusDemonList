@@ -21,6 +21,12 @@
             "hz": 360
         },
         {
+            "user": "Gokill",
+            "link": "https://www.youtube.com/watch?v=9fjSk1xh-SU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "AlecZD",
             "link": "https://youtu.be/DFOcd_d_mOY?si=Ud2N5OO5AI3_uKL9",
             "percent": 100,
@@ -64,3 +70,4 @@
         }
     ]
 }
+
