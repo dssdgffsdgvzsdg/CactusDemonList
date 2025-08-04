@@ -5,14 +5,14 @@
         "link": "https://www.youtube.com/channel/UCqihiS2TwtNY0JTQaEw-Yng"
     },
     {
-        "role": "owner",
-        "name": "Kookyeyes",
-        "link": "https://www.youtube.com/channel/UC1Zb9DrcemeXF9KukMWVAgQ"
-    },
-    {
         "role": "admin",
         "name": "Dartino",
         "link": "https://www.youtube.com/@dartlolz528"
+    },
+    {
+        "role": "admin",
+        "name": "TriggeredGMD",
+        "link": "https://www.youtube.com/channel/UCiP7gPJpSKUyDrCWHBpKgTA"
     },
     {
         "role": "admin",
