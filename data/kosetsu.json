@@ -3,10 +3,16 @@
     "name": "KOSETSU",
     "author": "fwefwe",
     "creators": [],
-    "verifier": "GuillExprex52",
-    "verification": "https://www.youtube.com/watch?v=y_cwBGK2-30",
+    "verifier": "moliklee",
+    "verification": "https://www.youtube.com/watch?v=99jZBDvbe4M",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "GuillExprex52",
+            "link": "https://www.youtube.com/watch?v=y_cwBGK2-30",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
