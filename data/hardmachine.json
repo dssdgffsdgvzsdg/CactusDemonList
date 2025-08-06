@@ -21,6 +21,12 @@
             "hz": 360
         },
         {
+            "user": "MAXDASH",
+            "link": "https://www.youtube.com/watch?v=PY_S64sQ5Yk&t=235s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Tunax",
             "link": "https://www.youtube.com/watch?v=o2-sDTN9pvI",
             "percent": 100,
@@ -41,4 +47,5 @@
   
     ]
 }
+
 
