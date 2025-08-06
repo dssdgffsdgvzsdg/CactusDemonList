@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/lU0bgwqSZaA?si=mpYwrv6HzuXpCe4o",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": 
+    "records": [ 
         {
             "user": "Laser",
             "link": "https://www.youtube.com/watch?v=1todfyKJbhE",
@@ -15,3 +15,4 @@
             "hz": 360
         }
     ]
+}
