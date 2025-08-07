@@ -3,11 +3,17 @@
     "name": "Zodiac",
     "author": "Bianox",
     "creators": ["RicoLP", "Osiris GD", "YakobNugget", "TMNGaming", "Pennutoh", "Juhou", "Rustam", "LeoCreatorX", "Enlex", "JoeyPlays", "Onnikonna", "Aquatias", "Shocksidian", "SlimJim", "Dudex", "BIANOX", "DreamEater", "Marwec", "TehTactiq", "Eggnog", "Samifying", "Uneskladovae"],
-    "verifier": "PoCle",
-    "verification": "https://www.youtube.com/watch?v=R2o1zQ0guWY",
+    "verifier": "rori",
+    "verification": "https://www.youtube.com/watch?v=I8bv64z591Q",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "PoCle",
+            "link": "https://www.youtube.com/watch?v=R2o1zQ0guWY",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "stillsouless",
             "link": "https://www.youtube.com/watch?v=so2rsDmswCs",

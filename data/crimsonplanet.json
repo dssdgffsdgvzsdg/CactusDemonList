@@ -3,11 +3,17 @@
     "name": "Crimson Planet",
     "author": "TrueOmega",
     "creators": ["Metalface221 and more"],
-    "verifier": "stillsouless",
-    "verification": "https://www.youtube.com/watch?v=UpYiNH5vxSc",
+    "verifier": "rori",
+    "verification": "https://www.youtube.com/watch?v=y5x_DhwTKX0",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://www.youtube.com/watch?v=UpYiNH5vxSc",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Teno",
             "link": "https://www.youtube.com/watch?v=CW2XtrW7sB8",
