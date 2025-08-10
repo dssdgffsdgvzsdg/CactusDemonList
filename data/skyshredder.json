@@ -21,10 +21,17 @@
             "hz": 360
         },
         {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=82PBDHqO8v4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "tiredfish",
             "link": "https://youtu.be/311s2N5Ci0A?si=0AaYPQxerNm4vtta",
             "percent": 100,
             "hz": 360
         }
     ]
+
 }
