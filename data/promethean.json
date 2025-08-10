@@ -27,6 +27,12 @@
             "hz": 360
         },
         {
+            "user": "GGonop",
+            "link": "https://www.youtube.com/watch?v=2VVhVA_2N8o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Laser",
             "link": "https://www.youtube.com/watch?v=riV_U9cMbB0",
             "percent": 100,
@@ -70,4 +76,5 @@
         }
     ]
 }
+
 
