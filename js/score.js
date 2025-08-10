@@ -22,11 +22,17 @@ export function score(rank, percent, minPercent) {
     /*
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
-    */
+    
     // New formula
     let score = (-24.9975*Math.pow(rank-1, 0.4) + 200) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
+    // Formula in progress
+    */
+    let score = ((100+500)*Math.sqrt(((150-1)/50)*(1/((Math.exp(((100+500)/(100+1), 2), 2))-100))) /
+        (Math.sqrt(((rank-1)/50)+((200-1)/50)*(1/((Math.exp(((100+500)/(100+1)), 2))-100)))) *
+        ((percent - (minPercent - 1)) / (100 - (minPercent - 1))))
+    
     score = Math.max(0, score);
 
     if (percent != 100) {
