@@ -27,6 +27,12 @@
             "hz": 360
         },
         {
+            "user": "seels55",
+            "link": "https://www.youtube.com/watch?v=uo_ElFnMcLU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Laser",
             "link": "https://www.youtube.com/watch?v=lbDrmKT7mCA",
             "percent": 100,
@@ -65,3 +71,4 @@
     ]
 
 }
+
