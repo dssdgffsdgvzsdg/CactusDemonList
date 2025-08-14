@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=41JrFdenKEk",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
