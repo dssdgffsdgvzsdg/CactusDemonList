@@ -21,6 +21,12 @@
             "hz": 360
         },
         {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=zeH0nzSy7BQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Diamond",
             "link": "https://youtu.be/VSNYcWgGExY?si=u7RvbSmjIeABFvNB",
             "percent": 100,
@@ -76,5 +82,6 @@
         }
     ]
 }
+
 
 
