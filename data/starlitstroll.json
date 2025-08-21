@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Ninde",
+            "link": "https://youtu.be/mofPpLoO9FA?si=0wBtGBAzROYF2hgJ",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
