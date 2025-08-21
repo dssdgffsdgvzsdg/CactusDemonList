@@ -7,5 +7,13 @@
     "verification": "https://youtu.be/yFQ7RtPF4l0?si=KpO3hEXx53y9v_OJ",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "bims",
+            "link": "https://youtu.be/rVn2imP9DKU?si=jcFXhYQ2_l3O-NTf",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
+
