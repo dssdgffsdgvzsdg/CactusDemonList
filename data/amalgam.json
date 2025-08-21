@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/9MVJtq0GNqs?si=uB5_BmFLiKGBgL3p",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
