@@ -2,7 +2,7 @@
     "id": 58161496,
     "name": "Renevant",
     "author": "nikroplays",
-    "creators": ["nikroplays"],
+    "creators": [],
     "verifier": "rori",
     "verification": "https://www.youtube.com/watch?v=2Y8kBw8YxO8",
     "percentToQualify": "100",
@@ -169,9 +169,16 @@
             "link": "https://youtu.be/UOw1qOSUeYg?si=Lzvlb_6GS6CsifoV",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "bims",
+            "link": "https://youtu.be/JFT9T5EyWFQ?si=VTGFJCgX4PdD_RIl",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
+
 
 
 
