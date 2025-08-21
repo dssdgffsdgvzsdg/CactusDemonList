@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "bims",
+            "link": "https://youtu.be/Gx5_W82Nzc0?si=Fq1adPU3XMUvKvcS",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
