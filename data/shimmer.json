@@ -1,7 +1,7 @@
 {
     "id": 94156085,
     "name": "shimmer",
-    "author": "Amplitron",
+    "author": "amplitron",
     "creators": [],
     "verifier": "Superjavicon",
     "verification": "https://www.youtube.com/watch?v=z8v6RWAL2Rw",
@@ -77,6 +77,12 @@
         {
             "user": "Gamingbyte",
             "link": "https://youtu.be/-EfauEf0c-4?si=359zNBYjDC3JxbBO",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "el terror de los travestis",
+            "link": "https://youtu.be/QyGggsR9a4U?si=NwoOTRpuXge7e47K",
             "percent": 100,
             "hz": 360
         }
