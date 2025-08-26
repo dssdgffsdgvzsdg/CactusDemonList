@@ -9,12 +9,6 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "PoCle",
-            "link": "https://youtu.be/44pY-NnxMhk?si=i1s7bjYlY3Rtrdgz",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "kloone",
             "link": "https://youtu.be/6wStnTxKIMY?si=1dQq9sgUjuZk0MAK",
             "percent": 100,
@@ -76,6 +70,7 @@
         }
     ]
 }
+
 
 
 
