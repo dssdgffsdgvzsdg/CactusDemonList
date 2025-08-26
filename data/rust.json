@@ -9,12 +9,6 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "PoCle",
-            "link": "https://www.youtube.com/watch?v=UWle6FTKkMc",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "AlecZD",
             "link": "https://www.youtube.com/watch?v=-vxEzrLKej4",
             "percent": 100,
@@ -35,12 +29,6 @@
         {
             "user": "Laser",
             "link": "https://www.youtube.com/watch?v=RZxpcw3gzwQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Bracus",
-            "link": "https://www.youtube.com/watch?v=WvT5iysnhm8",
             "percent": 100,
             "hz": 360
         },
