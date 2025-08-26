@@ -3,17 +3,11 @@
     "name": "NETWORK",
     "author": "Agat3",
     "creators": ["Agat3","Kaza","theworldforme"],
-    "verifier": "PoCle",
-    "verification": "https://youtu.be/B86aDcGMCvg?si=3sb-JLCYci2SNzBO",
+    "verifier": "Superjavicon",
+    "verification": "https://youtu.be/eY7ghtoVsw8?si=EwF_6HUluo_R1tgd",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Superjavicon",
-            "link": "https://youtu.be/eY7ghtoVsw8?si=EwF_6HUluo_R1tgd",
-            "percent": 100,
-            "hz": 360
-        },
         {
             "user": "Laser",
             "link": "https://www.youtube.com/watch?v=HBFDhchto0o",
