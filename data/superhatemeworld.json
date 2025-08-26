@@ -3,17 +3,11 @@
     "name": "SUPERHATEMEWORLD",
     "author": "icedcave",
     "creators": ["Loogiah","icedcave","Endlevel","Realvet","River", "Doop"],
-    "verifier": "PoCle",
-    "verification": "https://youtu.be/exefDY4BB_I?si=3fYZvdZvvCEn145E",
+    "verifier": "kloone",
+    "verification": "https://youtu.be/j-bC3QDL71A?si=vxxiJl5PZ7r-gjBJ",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "kloone",
-            "link": "https://youtu.be/j-bC3QDL71A?si=vxxiJl5PZ7r-gjBJ",
-            "percent": 100,
-            "hz": 360
-        },
         {
             "user": "cudby",
             "link": "https://youtu.be/V-KvLhZSBQE?si=k41799XljcEBve32",
@@ -124,6 +118,7 @@
         }
     ]
 }
+
 
 
 
