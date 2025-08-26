@@ -9,12 +9,6 @@
     "password": "789123",
     "records": [
         {
-            "user": "PoCle",
-            "link": "https://www.youtube.com/watch?v=k8adUZrBNiA",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Tunax",
             "link": "https://www.youtube.com/watch?v=xn6BkrmB1rs",
             "percent": 100,
