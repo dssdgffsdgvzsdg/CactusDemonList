@@ -51,12 +51,6 @@
             "hz": 360
         },
         {
-            "user": "PoCle",
-            "link": "https://youtu.be/Rky2sMEiHpM?si=2VNR9fA0qUKPdIbw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Teno",
             "link": "https://youtu.be/q6Kc5LdU_ow?si=N94dVJcbWgdSTMG0",
             "percent": 100,
@@ -136,6 +130,7 @@
         }
     ]
 }
+
 
 
 
