@@ -2,7 +2,7 @@
     "id": 90057148,
     "name": "Terminal Rampancy",
     "author": "Xyriak",
-    "creators": ["Xyriak"],
+    "creators": [],
     "verifier": "SuperJavicon",
     "verification": "https://youtu.be/yDP5xLb0o1E?si=bxlfFVWYGS9gONPx",
     "percentToQualify": "100",
@@ -31,8 +31,13 @@
             "link": "https://www.youtube.com/watch?v=ctXWmQZ82pM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Mizukii",
+            "link": "https://youtu.be/impJd31N-JI?si=0-2CQay18eFipToQ",
+            "percent": 100,
+            "hz": 360
         }
-       
     ]
-
 }
+
