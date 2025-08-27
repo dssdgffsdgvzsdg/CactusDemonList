@@ -24,9 +24,14 @@
         "name": "rogah",
         "link": "https://www.youtube.com/@GDrogah"
     },
-        {
+    {
         "role": "admin",
         "name": "IBeatRetray",
         "link": "https://youtube.com/@ibeatretray2?si=rjWzogxlQanZ3u-6"
+    },
+    {
+        "role": "member",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
     }
 ]
