@@ -30,8 +30,13 @@
         "link": "https://youtube.com/@ibeatretray2?si=rjWzogxlQanZ3u-6"
     },
     {
-        "role": "member",
+        "role": "admin",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
+    },
+    {
+        "role": "member",
+        "name": "A6",
+        "link": "https://www.youtube.com/@AndreyA6"
     }
 ]
