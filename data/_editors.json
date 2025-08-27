@@ -46,6 +46,11 @@
     },
     {
         "role": "member",
+        "name": "ace",
+        "link": "https://x.com/acetoace_"
+    },
+    {
+        "role": "member",
         "name": "ad3us",
         "link": "https://www.youtube.com/channel/UC4B1W4xQr8LyrCb5qCPGFCw"
     },
@@ -71,6 +76,16 @@
     },
     {
         "role": "member",
+        "name": "Artemka_Klutoy",
+        "link": "https://www.youtube.com/channel/UCV-orwOrqi0Zz_U3lWIFNtA"
+    },
+    {
+        "role": "member",
+        "name": "Ayumi",
+        "link": "https://www.youtube.com/@Ayumi_Renko"
+    },
+    {
+        "role": "member",
         "name": "Beastular",
         "link": "https://www.youtube.com/channel/UCfCqVPkukYs_i1Q84-21VUA"
     },
@@ -78,6 +93,11 @@
         "role": "member",
         "name": "Berserker",
         "link": "https://www.youtube.com/channel/UCVqh5mUlPFskm5NyNTAOJSw"
+    },
+    {
+        "role": "member",
+        "name": "Bennet",
+        "link": "https://www.youtube.com/@bennetarthur/streams"
     },
     {
         "role": "member",
@@ -93,5 +113,75 @@
         "role": "member",
         "name": "Brumik",
         "link": "https://www.youtube.com/channel/UCiIDglxZrDjl19CFdDXAanQ"
+    },
+    {
+        "role": "member",
+        "name": "camila314",
+        "link": "https://www.youtube.com/@camila314"
+    },
+    {
+        "role": "member",
+        "name": "catsarecool",
+        "link": "https://www.youtube.com/channel/UCUIsV6ZWQTkE276G__ifLCw"
+    },
+    {
+        "role": "member",
+        "name": "cavez",
+        "link": "https://www.youtube.com/@cavezvsc"
+    },
+    {
+        "role": "member",
+        "name": "CoffeeChips",
+        "link": "https://www.youtube.com/channel/UCH0Q2-Rzc3g3apvLft3PGnQ"
+    },
+    {
+        "role": "member",
+        "name": "ColossalOrange",
+        "link": "https://www.youtube.com/channel/UC6eJ2ao8QXt0bUfhO6_0ccA"
+    },
+    {
+        "role": "member",
+        "name": "Compass",
+        "link": "https://www.youtube.com/channel/UCAfzeVJ9SB-KOwRJ-3IO3PQ"
+    },
+    {
+        "role": "member",
+        "name": "Conical",
+        "link": "https://www.youtube.com/@Conical871"
+    },
+    {
+        "role": "member",
+        "name": "CookedPugs",
+        "link": "https://www.youtube.com/channel/UCEr-v0kKSsNO_lkbeUUg2Pw"
+    },
+    {
+        "role": "member",
+        "name": "CookieIsMine",
+        "link": "https://www.youtube.com/channel/UCS56QxeEiLqn7W_U7X708Fw"
+    },
+    {
+        "role": "member",
+        "name": "Cuatrocientos",
+        "link": "https://www.youtube.com/channel/UCNlQFl-TI63l9os5q4z2p8w"
+    },
+    {
+        "role": "member",
+        "name": "Cubiminx",
+        "link": "https://www.youtube.com/@cubiminx/videos"
+    },
+    {
+        "role": "member",
+        "name": "Cucu",
+        "link": "https://www.youtube.com/@Cucubot"
+    },
+    {
+        "role": "member",
+        "name": "cuin894",
+        "link": "https://www.youtube.com/@cuin894"
+    },
+    {
+        "role": "member",
+        "name": "Decibel",
+        "link": "https://www.youtube.com/channel/UCtHxG7D7h2PMBXbcVjtpeRA"
     }
 ]
