@@ -89,12 +89,18 @@ export default {
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
-                            <li v-for="editor in editors">
+                            <li v-for="editor in editors.filter(e => e.role !== 'member')">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
                                 <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
                                 <p v-else>{{ editor.name }}</p>
                             </li>
                         </ol>
+                        <h3>Members</h3>
+                        <ol class="editors">
+                            <li v-for="editor in editors.filter(e => e.role === 'member')">
+                                <img :src="\`/assets/member\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
+                                <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
+                                <p v-else>{{ editor.name }}</p>
                     </template>
                 </div>
             </div>
