@@ -27,6 +27,12 @@
             "hz": 360
         },
         {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=ttC4sm0vYh8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "surrounded",
             "link": "https://youtu.be/YVIlb2f7yp0?si=K1LR88WQmH3VL9hG",
             "percent": 100,
@@ -34,5 +40,6 @@
         }
     ]
 }
+
 
 
