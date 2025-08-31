@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/CKODUGFStsQ?si=scupAZ4AAsNadfoj",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=nXt63kG-dX0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
