@@ -27,6 +27,12 @@
             "hz": 360
         },
         {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=0TrT-zOvd5Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Slaughter",
             "link": "https://youtu.be/83FgMOBIrVM?si=i5TKfU3pgBSbj2xT",
             "percent": 100,
@@ -130,6 +136,7 @@
         }
     ]
 }
+
 
 
 
