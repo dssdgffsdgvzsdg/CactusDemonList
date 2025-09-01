@@ -2,12 +2,18 @@
     "id": 93340783,
     "name": "Cimmerian Shade",
     "author": "spcreat",
-    "creators": ["SrGuillester","AZuLer4"],
-    "verifier": "Cuatrocientos",
-    "verification": "https://youtu.be/VQDJ-wyxlLY?si=tx9Chr7vv_DzGAea",
+    "creators": ["SrGuillester", "AZuLer4"],
+    "verifier": "spcreat",
+    "verification": "https://youtu.be/lUNvV1k19HA",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/VQDJ-wyxlLY?si=tx9Chr7vv_DzGAea",
+            "percent": 100,
+            "hz": 360
+        }
         {
             "user": "kloone",
             "link": "https://youtu.be/u1getHq6560?si=FrjeHM8V9U0WNe71",
