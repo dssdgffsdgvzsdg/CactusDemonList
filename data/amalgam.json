@@ -3,11 +3,17 @@
     "name": "Amalgam",
     "author": "XLSpiral",
     "creators": [],
-    "verifier": "surrounded",
-    "verification": "https://youtu.be/n41uMWDkZoc?si=N1gUTnaTwiBkKraW",
+    "verifier": "Wooshi",
+    "verification": "https://youtu.be/82DDR2BjXSI",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "surrounded",
+            "link": "https://youtu.be/n41uMWDkZoc?si=N1gUTnaTwiBkKraW",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "kloone",
             "link": "https://youtu.be/9MVJtq0GNqs?si=uB5_BmFLiKGBgL3p",
