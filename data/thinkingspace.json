@@ -75,12 +75,6 @@
             "hz": 360
         },
         {
-            "user": "Aless",
-            "link": "https://youtu.be/xm1YYhKahFU?si=odIbdMP7VRjdlgYN",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "Sevant",
             "link": "https://youtu.be/c_FtYjnuCk8?si=GguEyPsc9CbqO2Ku",
             "percent": 100,
@@ -124,6 +118,7 @@
         }
     ]
 }
+
 
 
 
