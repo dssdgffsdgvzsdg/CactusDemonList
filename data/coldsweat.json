@@ -81,12 +81,6 @@
             "hz": 360
         },
         {
-            "user": "Aless",
-            "link": "https://youtu.be/gcgiCq-2O1M?si=irW2Ev5kaCG7fTOL",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "bims",
             "link": "https://youtu.be/cfLb7GZp5kg?si=ls1DjVKBxObYBSMC",
             "percent": 100,
@@ -118,6 +112,7 @@
         }
     ]
 }
+
 
 
 
