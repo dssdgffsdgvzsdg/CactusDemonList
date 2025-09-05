@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "PlusrMinus",
+            "link": "https://www.youtube.com/watch?v=gXUwH1NNIYc",
+            "percent": 100,
+            "hz": 360
+        }
     ]
-}
