@@ -3,8 +3,8 @@
     "name": "Shardscapes",
     "author": "ItzKiba",
     "creators": [],
-    "verifier": "Drongostache",
-    "verification": "https://www.youtube.com/watch?v=IK-kKQADt-w",
+    "verifier": "Wolvez",
+    "verification": "https://youtu.be/WH-AlZbkXnQ?si=j1TSKR5w8QfM0ixV",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -71,12 +71,6 @@
         {
             "user": "spcreat",
             "link": "https://youtu.be/dgJ4xumJ0dg?si=ItSKyaeU27CEGCTa",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Wolvez",
-            "link": "https://youtu.be/WH-AlZbkXnQ?si=j1TSKR5w8QfM0ixV",
             "percent": 100,
             "hz": 360
         }
