@@ -3,8 +3,8 @@
     "name": "Silent clubstep",
     "author": "TheRealSailent",
     "creators": [],
-    "verifier": "Diamond",
-    "verification": "https://www.youtube.com/watch?v=idHQWAWQUeY",
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=idHQWAWQUeYhttps://www.youtube.com/watch?v=trf9--AiLH8",
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
@@ -15,8 +15,8 @@
             "hz": 360
         },
         {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=trf9--AiLH8",
+            "user": "Diamond",
+            "link": "https://www.youtube.com/watch?v=idHQWAWQUeY",
             "percent": 100,
             "hz": 360
         },
@@ -34,6 +34,7 @@
         }
     ]
 }
+
 
 
 
