@@ -3,8 +3,8 @@
     "name": "Tunnel of Despair",
     "author": "Exen",
     "creators": ["ImMaxX1", "Exen"],
-    "verifier": "SerVax",
-    "verification": "https://youtu.be/9LBSZrtBJh8?si=iWcwEFCnw6TWTZml",
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=dj_HNqcwxQ0",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -27,8 +27,8 @@
             "hz": 360
         },
         {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=dj_HNqcwxQ0",
+            "user": "SerVax",
+            "link": "https://youtu.be/9LBSZrtBJh8?si=iWcwEFCnw6TWTZml",
             "percent": 100,
             "hz": 360
         },
