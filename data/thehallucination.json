@@ -3,8 +3,8 @@
     "name": "The Hallucination",
     "author": "SyQual",
     "creators": ["SyQual", "VoTcHi"],
-    "verifier": "stillsouless",
-    "verification": "https://youtu.be/h7mmP-nwUv4?si=RTvVK3jjBnJlmzVK",
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=fdp8CvI5uUw",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -27,8 +27,8 @@
             "hz": 360
         },
         {
-            "user": "wPopoff",
-            "link": "https://www.youtube.com/watch?v=fdp8CvI5uUw",
+            "user": "stillsouless",
+            "link": "https://youtu.be/h7mmP-nwUv4?si=RTvVK3jjBnJlmzVK",
             "percent": 100,
             "hz": 360
         },
