@@ -3,8 +3,8 @@
     "name": "MINUSdry",
     "author": "CDMusic",
     "creators": ["CDMusic","Varium","Sevant"],
-    "verifier": "A6",
-    "verification": "https://youtu.be/xAi8GMT2ruc?si=j2TCwkJrD3-MglRp",
+    "verifier": "moliklee",
+    "verification": "https://youtu.be/xAi8GMT2ruc?si=j2TCwkJrD3-MglRp https://www.youtube.com/watch?v=3lY4204abcU",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -45,8 +45,8 @@
             "hz": 360
         },
         {
-            "user": "moliklee",
-            "link": "https://www.youtube.com/watch?v=3lY4204abcU",
+            "user": "A6",
+            "link": "https://youtu.be/xAi8GMT2ruc?si=j2TCwkJrD3-MglRp",
             "percent": 100,
             "hz": 360
         },
