@@ -3,8 +3,8 @@
     "name": "COMBUSTION",
     "author": "Cersia",
     "creators": ["Cersia","Slithium"],
-    "verifier": "Superjavicon",
-    "verification": "https://youtu.be/0NRbbSY7Fuc?si=pZ28zrA00so5nh3n",
+    "verifier": "Vorten",
+    "verification": "https://www.youtube.com/watch?v=ZwP11R5gIAA",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -33,8 +33,8 @@
             "hz": 360
         },
         {
-            "user": "Vorten",
-            "link": "https://www.youtube.com/watch?v=ZwP11R5gIAA",
+            "user": "Superjavicon",
+            "link": "https://youtu.be/0NRbbSY7Fuc?si=pZ28zrA00so5nh3n",
             "percent": 100,
             "hz": 360
         },
