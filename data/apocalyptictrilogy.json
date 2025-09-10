@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Laser",
+            "link": "https://www.youtube.com/watch?v=u_cGKTqk-6A",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
