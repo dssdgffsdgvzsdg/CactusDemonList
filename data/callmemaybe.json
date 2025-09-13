@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/GLHXQQuFvZ0?si=S0jIJEPcL21GZ77_",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Ziggy",
+            "link": "https://youtu.be/91gJi9-zwc0?si=HNbp5QCSQoONylZt",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
