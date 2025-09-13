@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+    {
+            "user": "Decibel",
+            "link": "https://youtu.be/uhDZb9-vBH0?si=HlaWh7REtNi2YBT9",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
