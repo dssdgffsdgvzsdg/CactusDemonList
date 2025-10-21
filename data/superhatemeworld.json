@@ -45,12 +45,6 @@
             "hz": 360
         },
         {
-            "user": "GuitGuit",
-            "link": "https://youtu.be/zyzgzH50UZ4?si=lYdzpyJAVxhWkDaC",
-            "percent": 100,
-            "hz": 360
-        },
-        {
             "user": "tihra",
             "link": "https://youtu.be/LCQGsGm_9YY?si=TAdBof7x0kc61jsR",
             "percent": 100,
@@ -142,6 +136,7 @@
         }
     ]
 }
+
 
 
 
