@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/FE3Oi1QfWt0?si=d2eQU6NL4T0WCziT",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
